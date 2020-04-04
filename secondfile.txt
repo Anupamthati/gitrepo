@@ -1,0 +1,7 @@
+This is the second test fil. Below are some commands.
+sudo su -
+git status
+git add .
+git add <file-name>
+
+
